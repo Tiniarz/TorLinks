@@ -11,7 +11,7 @@
 - **Smooth Roll-Down:** High-speed line printing for a seamless terminal experience.
 - **Categorized Links:** Organized sections for Search Engines, Markets, Cryptography, and more.
 - **Color-Coded Interface:** Visual distinction between warnings, system prompts, and link data.
-- **Open Source:** Licensed under MIT - feel free to fork, modify, and improve.
+- **Open Source:** Licensed under GPT - feel free to fork, modify, and improve.
 
 ## Installation
 1. Ensure you have Python 3.x installed.
