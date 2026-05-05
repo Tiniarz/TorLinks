@@ -20,8 +20,9 @@
    pip install colorama
 Run the application:
 
-Bash
+```Bash
 python TorLinks.py
+
 Requirements
 Windows 7 and above,Any linux operating system
 
