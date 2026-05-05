@@ -1,5 +1,5 @@
 # TorLinks 🧅
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![Made with Love](https://img.shields.io/badge/Made%20with-Love-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
 
 **TorLinks** is a high-speed, terminal-based directory for Onion service links. It is a free, open-source tool built for developers and researchers to access a curated list of darknet resources directly from the command line.
 
