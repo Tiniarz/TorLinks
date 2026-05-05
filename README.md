@@ -5,7 +5,7 @@
 ## ⚠️ Disclaimer
 **User Responsibility:** By using this software, you acknowledge that you are solely responsible for your actions on the dark web. The developers of TorLinks hold no responsibility for the content of the links provided or any damages/legal issues that may arise from visiting them. 
 
-**Environment:** This tool is designed for testing on private VMs and secure servers. Use with the Tor Browser or a configured Tor proxy.
+**Environment:** This tool is designed for any environment a VM is optional. Use with the Tor Browser or a configured Tor proxy.
 
 ## Features
 - **Smooth Roll-Down:** High-speed line printing for a seamless terminal experience.
