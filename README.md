@@ -18,11 +18,10 @@
 2. Install dependencies:
    ```bash
    pip install colorama
-Run the application:
+## Run the application:
 
-```Bash
+```bash
 python TorLinks.py
-
 
 Requirements
 Windows 7 and above,Any linux operating system
