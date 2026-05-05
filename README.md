@@ -20,7 +20,7 @@
    pip install colorama
 ## Run the application:
 
-```bash
+``bash
 python TorLinks.py
 
 Requirements
